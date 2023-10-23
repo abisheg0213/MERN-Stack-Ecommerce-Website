@@ -1,0 +1,11 @@
+.custom-card {
+    margin-left: 10px;
+    gap: 8px;
+    margin-bottom: 10px;
+    display: flex;
+    gap: 30px;
+  }
+.view
+{
+    margin-left: 4px;
+}

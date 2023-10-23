@@ -1,0 +1,12 @@
+.popular h3{
+    color:#171717;
+    font-size: 50px;
+    font-weight: 250;
+    font-family: serif;
+}
+.popular hr{
+    width:100px;
+    height:6px;
+    border-radius:7px;
+    background:#171717;
+} 

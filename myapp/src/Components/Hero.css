@@ -1,0 +1,39 @@
+.hero
+{
+    height:100vh;
+    background: linear-gradient(180deg,#fde1ff,#e1ffea22 60%);
+display: flex;
+
+}
+.hero-left
+{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:20px;
+    padding-left: 180 px;
+    line-height:1.1;
+}
+.hero-left h2{
+    font-family: cursive;
+    margin-left: 20px;
+    color:#090909;
+    font-size: 26px;
+    font-weight: 600;
+}
+.hero-left p{
+    font-family: 'Gill Sans';
+    margin: 30px;
+    color:#171717;
+    font-size: 100px;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium';
+}
+.hero-right
+{
+    flex:1;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,20 @@
+.lo input
+{
+    margin-left: 5px;
+    border-radius:2px;
+}
+.lo label
+{
+    font-family: Impact;
+    font-size: 20px;
+    font-weight: 100px;
+}
+.lo h3{
+    font-family: Impact;
+}
+.log
+{
+
+    font-family: Impact;
+    font-size: 35px;
+}

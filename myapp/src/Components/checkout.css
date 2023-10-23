@@ -1,0 +1,78 @@
+.prod-display{
+    display: flex;
+    margin : 0px 170px; 
+  }
+  .prod-display-left
+  {
+      display: flex;
+      gap:17px;
+  }
+  .prod-display-left h2
+  {
+      font-family: 'Times New Roman';
+      font-size: 40px;
+  }
+  .prod-display-right
+  {
+      margin: 0px 70px;
+      display: flex;
+      flex-direction: column;
+  }
+  .prod-display-left input
+  {
+      margin-left: 10px;
+      border-radius: 2px;
+  }
+  .prod-display-left label
+  {
+      font-family: 'Times New Roman';
+      font-size: 20px;
+  }
+  .prod-display-left select
+  {
+    border-radius: 2px;
+    font-family: 'Times New Roman';
+    font-size: 15px;
+  }
+  .prod-display-left option
+  {
+    font-family: 'Times New Roman';
+    font-size: 15px;
+  }
+  .prod-display-right
+  {
+    margin-left: 150px;
+  }
+  .cartCard
+  {
+    margin-left: 200px;
+    background: #d3d3d3 ;
+  }
+  .cartCard p
+  {
+    margin-left: 10px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+  }
+  .cartCard h4
+  {
+    margin-left: 10px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 300px;
+  }
+  .cardbutton
+  {
+    margin-left: 500px;
+  } 
+  .cartitem-format
+{
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 1fr 1fr 1fr 1fr;
+align-items: center;
+gap:75px;
+padding: 20px 0px;
+font-size: 18px;
+font-weight: 400;
+}

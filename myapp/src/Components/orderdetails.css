@@ -1,0 +1,25 @@
+.order
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    gap:15px;
+    width:700px;
+    height:200px;
+}
+.order h4{
+    font-family: Impact;
+    font-size: 35px;
+    font-weight: 220;
+}
+.order p{
+    font-family: 'Times New Roman';
+    font-size: 15px;
+}
+.op
+{
+    font-family: Impact;
+    font-size: 35px;
+    font-weight: 220;
+    margin-top: 15px;
+    margin-left: 15px;
+}
